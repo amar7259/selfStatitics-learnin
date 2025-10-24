@@ -1,0 +1,12 @@
+Chi-square: chi2=0.9706, p=0.324541, dof=1
+Observed:
+IsSmoker    0    1
+Denied            
+0         674  237
+1          61   28
+
+Expected:
+IsSmoker        0        1
+Denied                    
+0         669.585  241.415
+1          65.415   23.585

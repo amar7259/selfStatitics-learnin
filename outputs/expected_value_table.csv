@@ -1,0 +1,4 @@
+Type,Prob,AvgCost,Contribution
+Routine,0.62,1000,620.0
+Specialist,0.28,3000,840.0000000000001
+Emergency,0.1,10000,1000.0
